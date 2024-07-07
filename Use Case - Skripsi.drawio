@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T04:05:07.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="8-y5CdTFgrfGFk5UONcT" type="github">
-  <diagram name="Halaman-1" id="f-cThIh0bMvv7wwQ6LZK">
+<mxfile host="app.diagrams.net" modified="2024-07-07T04:06:18.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="EwymeVQI3NHdulCchX-t" type="github" pages="2">
+  <diagram name="Use Case Diagram" id="f-cThIh0bMvv7wwQ6LZK">
     <mxGraphModel dx="1049" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -242,6 +242,14 @@
         <mxCell id="aN5weHXpLjJ7d-LWtql0-50" value="Ubah profil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="70" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QW9-7pE7JItVPyQwXhW9" name="Sequence Diagram">
+    <mxGraphModel dx="1259" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="3400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
